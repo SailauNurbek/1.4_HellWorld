@@ -1,0 +1,14 @@
+C:\Users\n.sailau\source\repos\SkillBox\1.4_HelloWorld\bin\Debug\net8.0\1.4_HelloWorld.exe
+C:\Users\n.sailau\source\repos\SkillBox\1.4_HelloWorld\bin\Debug\net8.0\1.4_HelloWorld.deps.json
+C:\Users\n.sailau\source\repos\SkillBox\1.4_HelloWorld\bin\Debug\net8.0\1.4_HelloWorld.runtimeconfig.json
+C:\Users\n.sailau\source\repos\SkillBox\1.4_HelloWorld\bin\Debug\net8.0\1.4_HelloWorld.dll
+C:\Users\n.sailau\source\repos\SkillBox\1.4_HelloWorld\bin\Debug\net8.0\1.4_HelloWorld.pdb
+C:\Users\n.sailau\source\repos\SkillBox\1.4_HelloWorld\obj\Debug\net8.0\1.4_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.sailau\source\repos\SkillBox\1.4_HelloWorld\obj\Debug\net8.0\1.4_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\n.sailau\source\repos\SkillBox\1.4_HelloWorld\obj\Debug\net8.0\1.4_HelloWorld.AssemblyInfo.cs
+C:\Users\n.sailau\source\repos\SkillBox\1.4_HelloWorld\obj\Debug\net8.0\1.4_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\n.sailau\source\repos\SkillBox\1.4_HelloWorld\obj\Debug\net8.0\1.4_HelloWorld.dll
+C:\Users\n.sailau\source\repos\SkillBox\1.4_HelloWorld\obj\Debug\net8.0\refint\1.4_HelloWorld.dll
+C:\Users\n.sailau\source\repos\SkillBox\1.4_HelloWorld\obj\Debug\net8.0\1.4_HelloWorld.pdb
+C:\Users\n.sailau\source\repos\SkillBox\1.4_HelloWorld\obj\Debug\net8.0\1.4_HelloWorld.genruntimeconfig.cache
+C:\Users\n.sailau\source\repos\SkillBox\1.4_HelloWorld\obj\Debug\net8.0\ref\1.4_HelloWorld.dll
